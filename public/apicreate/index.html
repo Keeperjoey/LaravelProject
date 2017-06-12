@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>New Age - Start Bootstrap Theme</title>
+
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+
+hi
+    <!-- jQuery -->
+    <script src="lib/jquery/jquery.min.js"></script>
+	<!-- Theme JavaScript -->
+	<script>
+
+ $(document).ready(function () {
+    
+			var uuid = guid();
+			uuid = "725b8743-f7ab-9f29-5f48-db989dfb5070";
+			var epochDate = Math.floor(new Date().getTime() / 1000);
+			var jsondata = '{ "uuid": "'+ uuid +'", "location": "CHIBB", "readings": [ { "type": "temperature", "reading": '  +  ((Math.random() * 30) + 20)  + ' , "unit": "Celcius", "timestamp": ' + epochDate + '} ], "battery": ' + (Math.floor(Math.random() * 100) + 1 )+ '} ' 
+            $.ajax({
+                url: "http://localhost:53149/api/sensordata",
+                type: "Post",
+                data: jsondata,
+                contentType: 'application/json; charset=utf-8',
+                success: function (data) {
+                  alert("The data has been persisted");
+                },
+                error: function () { alert('error'); }
+            });
+
+    });
+	
+	function guid() {
+  return s4() + s4() + '-' + s4() + '-' + s4() + '-' +
+    s4() + '-' + s4() + s4() + s4();
+}
+
+function s4() {
+  return Math.floor((1 + Math.random()) * 0x10000)
+    .toString(16)
+    .substring(1);
+}
+
+document.getElementById('jsGenId').addEventListener('click', function() {
+  document.getElementById('jsIdResult').value = guid();
+})
+
+	</script>
+
+</body>
+
+</html>

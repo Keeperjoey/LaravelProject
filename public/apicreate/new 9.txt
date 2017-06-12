@@ -1,0 +1,5 @@
+145.24.222.169
+
+mongo.exe mongodb://codewatch:codewatch1@h2644603.stratoserver.net:27017/sensordata
+
+db.createUser({user: "codewatch",pwd: "codewatch1", roles: [ { role: "userAdminAnyDatabase", db: "admin" }, { role: "readWriteAnyDatabase", db: "admin" }, { role: "clusterAdmin", db: "admin" } ]})

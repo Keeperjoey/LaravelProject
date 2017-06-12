@@ -1,0 +1,584 @@
+{
+  "myroot": [
+    {
+      "_id": "58dbad87763cd536546076f8",
+      "UUID": "d14fcbab-8e13-140f-3952-cb1fe88c8cbc",
+      "Location": "CHIBB",
+      "Readings": [
+        {
+          "Type": "temperature",
+          "Value": 20.1,
+          "Unit": "Celcius",
+          "Timestamp": "2017-02-17T06:56:14Z"
+        },
+        {
+          "Type": "temperature",
+          "Value": 20.2,
+          "Unit": "Celcius",
+          "Timestamp": "2017-02-17T06:56:24Z"
+        },
+        {
+          "Type": "temperature",
+          "Value": 20.3,
+          "Unit": "Celcius",
+          "Timestamp": "2017-02-17T06:56:34Z"
+        }
+      ],
+      "Battery": 58
+    },
+    {
+      "_id": "58dbad88763cd536546076f9",
+      "UUID": "5cc79e3d-60c0-6edc-288a-5b2d867edc5e",
+      "Location": "CHIBB",
+      "Readings": [
+        {
+          "Type": "temperature",
+          "Value": 20.1,
+          "Unit": "Celcius",
+          "Timestamp": "2017-02-17T06:56:14Z"
+        },
+        {
+          "Type": "temperature",
+          "Value": 20.2,
+          "Unit": "Celcius",
+          "Timestamp": "2017-02-17T06:56:24Z"
+        },
+        {
+          "Type": "temperature",
+          "Value": 20.3,
+          "Unit": "Celcius",
+          "Timestamp": "2017-02-17T06:56:34Z"
+        }
+      ],
+      "Battery": 82
+    },
+    {
+      "_id": "58dbad89763cd536546076fa",
+      "UUID": "5ffeb8cd-da54-44b3-68c7-a6c8c667394f",
+      "Location": "CHIBB",
+      "Readings": [
+        {
+          "Type": "temperature",
+          "Value": 20.1,
+          "Unit": "Celcius",
+          "Timestamp": "2017-02-17T06:56:14Z"
+        },
+        {
+          "Type": "temperature",
+          "Value": 20.2,
+          "Unit": "Celcius",
+          "Timestamp": "2017-02-17T06:56:24Z"
+        },
+        {
+          "Type": "temperature",
+          "Value": 20.3,
+          "Unit": "Celcius",
+          "Timestamp": "2017-02-17T06:56:34Z"
+        }
+      ],
+      "Battery": 50
+    },
+    {
+      "_id": "58dbad89763cd536546076fb",
+      "UUID": "e755b560-1f4a-1386-8bae-cf70788c4f43",
+      "Location": "CHIBB",
+      "Readings": [
+        {
+          "Type": "temperature",
+          "Value": 20.1,
+          "Unit": "Celcius",
+          "Timestamp": "2017-02-17T06:56:14Z"
+        },
+        {
+          "Type": "temperature",
+          "Value": 20.2,
+          "Unit": "Celcius",
+          "Timestamp": "2017-02-17T06:56:24Z"
+        },
+        {
+          "Type": "temperature",
+          "Value": 20.3,
+          "Unit": "Celcius",
+          "Timestamp": "2017-02-17T06:56:34Z"
+        }
+      ],
+      "Battery": 23
+    },
+    {
+      "_id": "58dbaefc763cd536546076fc",
+      "UUID": "587c0b53-c9e0-66b8-9e0e-f6b0543062e6",
+      "Location": "CHIBB",
+      "Readings": [
+        {
+          "Type": "temperature",
+          "Value": 20.1,
+          "Unit": "Celcius",
+          "Timestamp": "2017-02-17T06:56:14Z"
+        },
+        {
+          "Type": "temperature",
+          "Value": 20.2,
+          "Unit": "Celcius",
+          "Timestamp": "2017-02-17T06:56:24Z"
+        },
+        {
+          "Type": "temperature",
+          "Value": 20.3,
+          "Unit": "Celcius",
+          "Timestamp": "2017-02-17T06:56:34Z"
+        }
+      ],
+      "Battery": 85
+    },
+    {
+      "_id": "58dbafc7763cd536546076fd",
+      "UUID": "test5",
+      "Location": "testlocationssss",
+      "Readings": [
+        {
+          "Type": "type",
+          "Value": 25.3,
+          "Unit": "unit",
+          "Timestamp": "2017-02-17T06:56:14Z"
+        }
+      ],
+      "Battery": 50
+    },
+    {
+      "_id": "58dbb164763cd53bf0e329cf",
+      "UUID": "cddd7719-8288-084f-0368-4f0374c539f7",
+      "Location": "CHIBB",
+      "Readings": [
+        {
+          "Type": "temperature",
+          "Value": 20.1,
+          "Unit": "Celcius",
+          "Timestamp": "2017-02-17T06:56:14Z"
+        },
+        {
+          "Type": "temperature",
+          "Value": 20.2,
+          "Unit": "Celcius",
+          "Timestamp": "2017-02-17T06:56:24Z"
+        },
+        {
+          "Type": "temperature",
+          "Value": 20.3,
+          "Unit": "Celcius",
+          "Timestamp": "2017-02-17T06:56:34Z"
+        }
+      ],
+      "Battery": 34
+    },
+    {
+      "_id": "58dbb167763cd53bf0e329d0",
+      "UUID": "5390f668-7652-197c-c8ac-ee40329778f6",
+      "Location": "CHIBB",
+      "Readings": [
+        {
+          "Type": "temperature",
+          "Value": 20.1,
+          "Unit": "Celcius",
+          "Timestamp": "2017-02-17T06:56:14Z"
+        },
+        {
+          "Type": "temperature",
+          "Value": 20.2,
+          "Unit": "Celcius",
+          "Timestamp": "2017-02-17T06:56:24Z"
+        },
+        {
+          "Type": "temperature",
+          "Value": 20.3,
+          "Unit": "Celcius",
+          "Timestamp": "2017-02-17T06:56:34Z"
+        }
+      ],
+      "Battery": 29
+    },
+    {
+      "_id": "58dbb167763cd53bf0e329d1",
+      "UUID": "4dc10a2c-087a-38e0-a7c7-4d0c754793ae",
+      "Location": "CHIBB",
+      "Readings": [
+        {
+          "Type": "temperature",
+          "Value": 20.1,
+          "Unit": "Celcius",
+          "Timestamp": "2017-02-17T06:56:14Z"
+        },
+        {
+          "Type": "temperature",
+          "Value": 20.2,
+          "Unit": "Celcius",
+          "Timestamp": "2017-02-17T06:56:24Z"
+        },
+        {
+          "Type": "temperature",
+          "Value": 20.3,
+          "Unit": "Celcius",
+          "Timestamp": "2017-02-17T06:56:34Z"
+        }
+      ],
+      "Battery": 54
+    },
+    {
+      "_id": "58dbb168763cd53bf0e329d2",
+      "UUID": "919d9ec6-f219-9ef4-f140-c0613f8a957d",
+      "Location": "CHIBB",
+      "Readings": [
+        {
+          "Type": "temperature",
+          "Value": 20.1,
+          "Unit": "Celcius",
+          "Timestamp": "2017-02-17T06:56:14Z"
+        },
+        {
+          "Type": "temperature",
+          "Value": 20.2,
+          "Unit": "Celcius",
+          "Timestamp": "2017-02-17T06:56:24Z"
+        },
+        {
+          "Type": "temperature",
+          "Value": 20.3,
+          "Unit": "Celcius",
+          "Timestamp": "2017-02-17T06:56:34Z"
+        }
+      ],
+      "Battery": 88
+    },
+    {
+      "_id": "58dbb168763cd53bf0e329d3",
+      "UUID": "a090bb15-a278-dfa2-b2b7-32c3d0384422",
+      "Location": "CHIBB",
+      "Readings": [
+        {
+          "Type": "temperature",
+          "Value": 20.1,
+          "Unit": "Celcius",
+          "Timestamp": "2017-02-17T06:56:14Z"
+        },
+        {
+          "Type": "temperature",
+          "Value": 20.2,
+          "Unit": "Celcius",
+          "Timestamp": "2017-02-17T06:56:24Z"
+        },
+        {
+          "Type": "temperature",
+          "Value": 20.3,
+          "Unit": "Celcius",
+          "Timestamp": "2017-02-17T06:56:34Z"
+        }
+      ],
+      "Battery": 60
+    },
+    {
+      "_id": "58dbb168763cd53bf0e329d4",
+      "UUID": "e5bef48a-12a5-5906-c891-a6ab9fd8447c",
+      "Location": "CHIBB",
+      "Readings": [
+        {
+          "Type": "temperature",
+          "Value": 20.1,
+          "Unit": "Celcius",
+          "Timestamp": "2017-02-17T06:56:14Z"
+        },
+        {
+          "Type": "temperature",
+          "Value": 20.2,
+          "Unit": "Celcius",
+          "Timestamp": "2017-02-17T06:56:24Z"
+        },
+        {
+          "Type": "temperature",
+          "Value": 20.3,
+          "Unit": "Celcius",
+          "Timestamp": "2017-02-17T06:56:34Z"
+        }
+      ],
+      "Battery": 2
+    },
+    {
+      "_id": "58e1f9ea763cd52448dd1ad8",
+      "UUID": "71a7c106-6d51-d8e3-98b9-e8924dc5ba3e",
+      "Location": "CHIBB",
+      "Readings": [
+        {
+          "Type": "temperature",
+          "Value": 20.1,
+          "Unit": "Celcius",
+          "Timestamp": "2017-02-17T06:56:14Z"
+        },
+        {
+          "Type": "temperature",
+          "Value": 20.2,
+          "Unit": "Celcius",
+          "Timestamp": "2017-02-17T06:56:24Z"
+        },
+        {
+          "Type": "temperature",
+          "Value": 20.3,
+          "Unit": "Celcius",
+          "Timestamp": "2017-02-17T06:56:34Z"
+        }
+      ],
+      "Battery": 17
+    },
+    {
+      "_id": "58e201d6763cd5272c73cb91",
+      "UUID": "d2699a18-5ff9-a94c-e087-ee099f0defb5",
+      "Location": "CHIBB",
+      "Readings": [
+        {
+          "Type": "temperature",
+          "Value": 20.1,
+          "Unit": "Celcius",
+          "Timestamp": "2017-04-03T06:03:34Z"
+        },
+        {
+          "Type": "temperature",
+          "Value": 20.2,
+          "Unit": "Celcius",
+          "Timestamp": "2017-02-17T06:56:24Z"
+        },
+        {
+          "Type": "temperature",
+          "Value": 20.3,
+          "Unit": "Celcius",
+          "Timestamp": "2017-02-17T06:56:34Z"
+        }
+      ],
+      "Battery": 30
+    },
+    {
+      "_id": "58e20ebb763cd53294ec1186",
+      "UUID": "4adc5054-5974-6979-3a6f-17ea0f8a03d9",
+      "Location": "CHIBB",
+      "Readings": [
+        {
+          "Type": "temperature",
+          "Value": 20.1,
+          "Unit": "Celcius",
+          "Timestamp": "2017-04-03T06:58:35Z"
+        },
+        {
+          "Type": "temperature",
+          "Value": 20.2,
+          "Unit": "Celcius",
+          "Timestamp": "2017-04-03T06:58:35Z"
+        },
+        {
+          "Type": "temperature",
+          "Value": 20.3,
+          "Unit": "Celcius",
+          "Timestamp": "2017-04-03T06:58:35Z"
+        }
+      ],
+      "Battery": 88
+    },
+    {
+      "_id": "58e20ebb763cd53294ec1187",
+      "UUID": "0f6174ed-7afd-7cef-8452-a7f3c31a63a1",
+      "Location": "CHIBB",
+      "Readings": [
+        {
+          "Type": "temperature",
+          "Value": 20.1,
+          "Unit": "Celcius",
+          "Timestamp": "2017-04-03T06:58:35Z"
+        },
+        {
+          "Type": "temperature",
+          "Value": 20.2,
+          "Unit": "Celcius",
+          "Timestamp": "2017-04-03T06:58:35Z"
+        },
+        {
+          "Type": "temperature",
+          "Value": 20.3,
+          "Unit": "Celcius",
+          "Timestamp": "2017-04-03T06:58:35Z"
+        }
+      ],
+      "Battery": 56
+    },
+    {
+      "_id": "58e20ebb763cd53294ec1188",
+      "UUID": "7783194e-8c3d-a77d-53ed-71b1bcd96a28",
+      "Location": "CHIBB",
+      "Readings": [
+        {
+          "Type": "temperature",
+          "Value": 20.1,
+          "Unit": "Celcius",
+          "Timestamp": "2017-04-03T06:58:35Z"
+        },
+        {
+          "Type": "temperature",
+          "Value": 20.2,
+          "Unit": "Celcius",
+          "Timestamp": "2017-04-03T06:58:35Z"
+        },
+        {
+          "Type": "temperature",
+          "Value": 20.3,
+          "Unit": "Celcius",
+          "Timestamp": "2017-04-03T06:58:35Z"
+        }
+      ],
+      "Battery": 50
+    },
+    {
+      "_id": "58e22506346d2d2498089ce5",
+      "UUID": "b7d6d76d-5ad0-aa6e-baa5-9e8faedefda2",
+      "Location": "CHIBB",
+      "Readings": [
+        {
+          "Type": "temperature",
+          "Value": 20.1,
+          "Unit": "Celcius",
+          "Timestamp": "2017-04-03T08:33:11Z"
+        },
+        {
+          "Type": "temperature",
+          "Value": 20.2,
+          "Unit": "Celcius",
+          "Timestamp": "2017-04-03T08:33:11Z"
+        },
+        {
+          "Type": "temperature",
+          "Value": 20.3,
+          "Unit": "Celcius",
+          "Timestamp": "2017-04-03T08:33:11Z"
+        }
+      ],
+      "Battery": 40
+    },
+    {
+      "_id": "58e2262c346d2d2818478381",
+      "UUID": "6dca90b0-fb23-04f4-67f3-93c85406a962",
+      "Location": "CHIBB",
+      "Readings": [
+        {
+          "Type": "temperature",
+          "Value": 20.1,
+          "Unit": "Celcius",
+          "Timestamp": "2017-04-03T08:37:51Z"
+        },
+        {
+          "Type": "temperature",
+          "Value": 20.2,
+          "Unit": "Celcius",
+          "Timestamp": "2017-04-03T08:37:51Z"
+        },
+        {
+          "Type": "temperature",
+          "Value": 20.3,
+          "Unit": "Celcius",
+          "Timestamp": "2017-04-03T08:37:51Z"
+        }
+      ],
+      "Battery": 24
+    },
+    {
+      "_id": "5921e88bd22e9804d011552d",
+      "UUID": "725b8743-f7ab-9f29-5f48-db989dfb5070",
+      "Location": "CHIBB",
+      "Readings": [
+        {
+          "Type": "temperature",
+          "Value": 34.81581,
+          "Unit": "Celcius",
+          "Timestamp": "2017-05-21T17:20:43Z"
+        }
+      ],
+      "Battery": 30
+    },
+    {
+      "_id": "5921e88dd22e9804d011552e",
+      "UUID": "725b8743-f7ab-9f29-5f48-db989dfb5070",
+      "Location": "CHIBB",
+      "Readings": [
+        {
+          "Type": "temperature",
+          "Value": 24.414854,
+          "Unit": "Celcius",
+          "Timestamp": "2017-05-21T17:20:45Z"
+        }
+      ],
+      "Battery": 67
+    },
+    {
+      "_id": "5921e88ed22e9804d011552f",
+      "UUID": "725b8743-f7ab-9f29-5f48-db989dfb5070",
+      "Location": "CHIBB",
+      "Readings": [
+        {
+          "Type": "temperature",
+          "Value": 38.59629,
+          "Unit": "Celcius",
+          "Timestamp": "2017-05-21T17:20:46Z"
+        }
+      ],
+      "Battery": 59
+    },
+    {
+      "_id": "5921e890d22e9804d0115530",
+      "UUID": "725b8743-f7ab-9f29-5f48-db989dfb5070",
+      "Location": "CHIBB",
+      "Readings": [
+        {
+          "Type": "temperature",
+          "Value": 39.3703423,
+          "Unit": "Celcius",
+          "Timestamp": "2017-05-21T17:20:48Z"
+        }
+      ],
+      "Battery": 43
+    },
+    {
+      "_id": "5921e891d22e9804d0115531",
+      "UUID": "725b8743-f7ab-9f29-5f48-db989dfb5070",
+      "Location": "CHIBB",
+      "Readings": [
+        {
+          "Type": "temperature",
+          "Value": 46.02654,
+          "Unit": "Celcius",
+          "Timestamp": "2017-05-21T17:20:49Z"
+        }
+      ],
+      "Battery": 79
+    },
+    {
+      "_id": "592273e7d22e9858189842ef",
+      "UUID": "725b8743-f7ab-9f29-5f48-db989dfb5070",
+      "Location": "CHIBB",
+      "Readings": [
+        {
+          "Type": "temperature",
+          "Value": 25.7581673,
+          "Unit": "Celcius",
+          "Timestamp": "2017-05-22T03:15:19Z"
+        }
+      ],
+      "Battery": 13
+    },
+    {
+      "_id": "592273f1d22e9858189842f0",
+      "UUID": "725b8743-f7ab-9f29-5f48-db989dfb5070",
+      "Location": "CHIBB",
+      "Readings": [
+        {
+          "Type": "temperature",
+          "Value": 32.0396042,
+          "Unit": "Celcius",
+          "Timestamp": "2017-05-22T03:15:29Z"
+        }
+      ],
+      "Battery": 88
+    }
+  ]
+}
